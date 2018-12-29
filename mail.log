@@ -1,0 +1,30 @@
+Mailer Error: Invalid address:  (setFrom) $from_emailCc: $firstname <$emailid
+Mailer Error: Invalid address:  (setFrom) OpqMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) hahahahahahMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) hahahahahahMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) opqweMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) PrametMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) SumitMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) PrameetMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) ghghghghghgMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) FKJDSMIME-Version: 1.0\r\n
+Mailer Error: The following From address failed: wordpress@localhost : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError 84sm61619264pfk.134 - gsmtp
+,530,5.5.1SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError 84sm61619264pfk.134 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.5.1
+Mailer Error: The following From address failed: wordpress@localhost : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError w10sm32617124pgi.81 - gsmtp
+,530,5.5.1SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError w10sm32617124pgi.81 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.5.1
+Mailer Error: SMTP Error: Could not authenticate.
+Mailer Error: Invalid address:  (setFrom) fsfjskMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) fsfjskMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) fkfjalkqMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) Full nameMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) Full nameMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) PrameetMIME-Version: 1.0\r\n
+Mailer Error: Invalid address:  (setFrom) fdskjfqdfkjkjMIME-Version: 1.0\r\nContent-Type: text/html; charset=utf-8
+Mailer Error: Invalid address:  (setFrom) PrameetMIME-Version: 1.0\r\nContent-Type: text/html; charset=utf-8
+Mailer Error: Invalid address:  (setFrom) Full NameMIME-Version: 1.0\r\nContent-Type: text/html; charset=utf-8
